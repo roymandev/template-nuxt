@@ -4,6 +4,6 @@ export default defineNuxtConfig({
   modules: ['@nuxt/ui', '@nuxtjs/eslint-module'],
   typescript: {
     typeCheck: true,
-    strict: true
-  }
-})
+    strict: true,
+  },
+});
