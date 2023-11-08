@@ -29,6 +29,8 @@
   },
   "dependencies": {
     "@nuxt/image": "^1.0.0",
-    "@nuxt/ui": "^2.10.0"
+    "@nuxt/ui": "^2.10.0",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^2.0.0"
   }
 }
